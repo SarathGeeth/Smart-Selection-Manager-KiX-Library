@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "smart_selection_manager_kix"
+version = "0.1.1"
+name = "Smart Selection Manager - KiX Library By REX"
+tagline = "Save and restore selections with multi-select support"
+maintainer = "SarathGeeth, rexrohar"
+type = "add-on"
+license = ["SPDX:GPL-3.0-or-later"]
+blender_version_min = "4.5.0"
+
+[addon]
+entry = "__init__.py"
